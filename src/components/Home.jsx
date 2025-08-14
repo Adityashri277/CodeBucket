@@ -48,7 +48,7 @@ const Home = () => {
           className="h-10 w-10  sm:h-12 sm:w-12 pl-3 py-2"
           src="https://imgs.search.brave.com/jydCAH_eDnPjxWVEkagWJmEj2jP9SzVuwrzup2ZSbTg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzY1LzI4LzYx/LzM2MF9GXzE2NTI4/NjEwOF9SVzlocG0z/ZWZJdElKZWdra3py/YTZqaUd6YUlQdGhy/QS5qcGc" alt="" />
           <input
-          className="w-sm pl-2.5 pr-10 py-2.5 text-md sm:text-lg md:text-xl outline-none text-black placeholder:font-semibold placeholder:font-serif "
+          className="w-sm pl-2.5 sm:pr-10 py-2.5 text-md sm:text-lg md:text-xl outline-none text-black placeholder:font-semibold placeholder:font-serif "
           type="text"
           placeholder="Enter Bucket Title"
           value={title}
